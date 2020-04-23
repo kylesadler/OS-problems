@@ -1,0 +1,1 @@
+This program explores the producer-consumer problem by creating multiple producer and consumer threads acting on one buffer. This buffer is protected by empty and full semaphores as well as a mutex.
