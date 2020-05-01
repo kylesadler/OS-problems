@@ -1,3 +1,8 @@
+/* 
+    Name: Kyle Sadler
+    ID:   010808898
+*/
+
 public class Waiter {
     
     private boolean[] chopsticks;  // true if available

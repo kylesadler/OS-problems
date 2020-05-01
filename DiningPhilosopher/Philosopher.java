@@ -1,3 +1,8 @@
+/* 
+    Name: Kyle Sadler
+    ID:   010808898
+*/
+
 import java.util.Random;
 
 class Philosopher implements Runnable{ 

@@ -1,0 +1,1 @@
+This program is a solution to the Dining Philosophers problem with 5 philosophers. This solution uses a "waiter" to manage the chopsticks. Each philosopher makes a request to the waiter when they are ready to eat.

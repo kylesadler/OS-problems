@@ -1,0 +1,278 @@
+Using arguments from command line
+Run time = 20
+
+Philosopher 1 Thinking
+Philosopher 3 Thinking
+Philosopher 2 Thinking
+Philosopher 4 Thinking
+Philosopher 5 Thinking
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 3 Thinking
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 2 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Thinking
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 2 Thinking
+Philosopher 2 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 1 Picked up left chopstick
+Philosopher 3 Eating
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Thinking
+Philosopher 2 Thinking
+Philosopher 4 Thinking
+Philosopher 3 Thinking
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 4 Thinking
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 5 Eating
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 5 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 3 Thinking
+Philosopher 1 Thinking
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 3 Thinking
+Philosopher 2 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 1 Thinking
+Philosopher 5 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 3 Thinking
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 2 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 1 Thinking
+Philosopher 2 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 3 Thinking
+Philosopher 1 Thinking
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 3 Thinking
+Philosopher 2 Thinking
+Philosopher 5 Put down left chopstick
+Philosopher 5 Put down right chopstick
+Philosopher 5 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 4 Eating
+Philosopher 1 Picked up left chopstick
+Philosopher 1 Picked up right chopstick
+Philosopher 1 Eating
+Philosopher 3 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 4 Thinking
+Philosopher 5 Thinking
+Philosopher 1 Put down left chopstick
+Philosopher 1 Put down right chopstick
+Philosopher 1 Thinking
+Philosopher 4 Picked up left chopstick
+Philosopher 4 Picked up right chopstick
+Philosopher 2 Picked up left chopstick
+Philosopher 4 Eating
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
+Philosopher 2 Put down left chopstick
+Philosopher 2 Put down right chopstick
+Philosopher 2 Thinking
+Philosopher 1 Thinking
+Philosopher 4 Put down left chopstick
+Philosopher 4 Put down right chopstick
+Philosopher 4 Thinking
+Philosopher 3 Picked up left chopstick
+Philosopher 3 Picked up right chopstick
+Philosopher 3 Eating
+Philosopher 5 Picked up left chopstick
+Philosopher 5 Picked up right chopstick
+Philosopher 5 Eating
+Philosopher 4 Thinking
+Philosopher 3 Put down left chopstick
+Philosopher 3 Put down right chopstick
+Philosopher 3 Thinking
+Philosopher 2 Picked up left chopstick
+Philosopher 2 Picked up right chopstick
+Philosopher 2 Eating
